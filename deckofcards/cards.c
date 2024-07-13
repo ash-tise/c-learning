@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 #define NUM_SUITS 4
 #define NUM_RANKS 13
